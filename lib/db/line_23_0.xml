@@ -1,0 +1,119 @@
+<lines_detail>
+<polyline lname="23" arcstype="6" hexred="0" hexgreen="0" hexblue="FF" red="0" green="0" blue="255">
+<point lat="45.4846300" lon="9.2358856"/>
+<point lat="45.4845665" lon="9.2361029"/>
+<point lat="45.4845121" lon="9.2363202"/>
+<point lat="45.4845025" lon="9.2365889"/>
+<point lat="45.4844571" lon="9.2367678"/>
+<point lat="45.4843217" lon="9.2369848"/>
+<point lat="45.4842495" lon="9.2370485"/>
+<point lat="45.4841413" lon="9.2371248"/>
+<point lat="45.4832584" lon="9.2375306"/>
+<point lat="45.4828800" lon="9.2376697"/>
+<point lat="45.4824028" lon="9.2377573"/>
+<point lat="45.4822588" lon="9.2377567"/>
+<point lat="45.4820068" lon="9.2377172"/>
+<point lat="45.4818900" lon="9.2376528"/>
+<point lat="45.4818271" lon="9.2375757"/>
+<point lat="45.4817463" lon="9.2374602"/>
+<point lat="45.4815137" lon="9.2367683"/>
+<point lat="45.4812807" lon="9.2363067"/>
+<point lat="45.4805822" lon="9.2345252"/>
+<point lat="45.4802864" lon="9.2339354"/>
+<point lat="45.4794177" lon="9.2317566"/>
+<point lat="45.4793819" lon="9.2316541"/>
+<point lat="45.4793732" lon="9.2315134"/>
+<point lat="45.4793938" lon="9.2302467"/>
+<point lat="45.4793590" lon="9.2296580"/>
+<point lat="45.4793918" lon="9.2267281"/>
+<point lat="45.4793488" lon="9.2257555"/>
+<point lat="45.4792770" lon="9.2256400"/>
+<point lat="45.4792140" lon="9.2256142"/>
+<point lat="45.4791510" lon="9.2256140"/>
+<point lat="45.4771798" lon="9.2255805"/>
+<point lat="45.4770897" lon="9.2256313"/>
+<point lat="45.4769817" lon="9.2256181"/>
+<point lat="45.4769189" lon="9.2255283"/>
+<point lat="45.4768740" lon="9.2254513"/>
+<point lat="45.4764085" lon="9.2241828"/>
+<point lat="45.4759514" lon="9.2231831"/>
+<point lat="45.4753603" lon="9.2216326"/>
+<point lat="45.4749838" lon="9.2208124"/>
+<point lat="45.4747688" lon="9.2202870"/>
+<point lat="45.4744822" lon="9.2195566"/>
+<point lat="45.4738822" lon="9.2179678"/>
+<point lat="45.4733983" lon="9.2168017"/>
+<point lat="45.4733536" lon="9.2166736"/>
+<point lat="45.4730861" lon="9.2152909"/>
+<point lat="45.4728723" lon="9.2141131"/>
+<point lat="45.4725266" lon="9.2112716"/>
+<point lat="45.4724552" lon="9.2109387"/>
+<point lat="45.4722255" lon="9.2085583"/>
+<point lat="45.4720566" lon="9.2073807"/>
+<point lat="45.4720576" lon="9.2068306"/>
+<point lat="45.4719859" lon="9.2067024"/>
+<point lat="45.4719230" lon="9.2066254"/>
+<point lat="45.4717430" lon="9.2065991"/>
+<point lat="45.4682861" lon="9.2068679"/>
+<point lat="45.4679619" lon="9.2069563"/>
+<point lat="45.4675567" lon="9.2069932"/>
+<point lat="45.4655132" lon="9.2071520"/>
+<point lat="45.4653780" lon="9.2072283"/>
+<point lat="45.4631004" lon="9.2074246"/>
+<point lat="45.4628124" lon="9.2073979"/>
+<point lat="45.4626772" lon="9.2074614"/>
+<point lat="45.4626412" lon="9.2074613"/>
+<point lat="45.4626143" lon="9.2074356"/>
+<point lat="45.4625604" lon="9.2073970"/>
+<point lat="45.4625515" lon="9.2073330"/>
+<point lat="45.4625426" lon="9.2072562"/>
+<point lat="45.4625252" lon="9.2069108"/>
+<point lat="45.4625075" lon="9.2067701"/>
+<point lat="45.4624357" lon="9.2066675"/>
+<point lat="45.4623819" lon="9.2065521"/>
+<point lat="45.4623371" lon="9.2063985"/>
+<point lat="45.4623328" lon="9.2038019"/>
+<point lat="45.4623697" lon="9.2032776"/>
+<point lat="45.4623256" lon="9.2027785"/>
+<point lat="45.4623292" lon="9.2007448"/>
+<point lat="45.4623755" lon="9.2000030"/>
+<point lat="45.4623513" lon="9.1984040"/>
+<point lat="45.4623785" lon="9.1982634"/>
+<point lat="45.4624327" lon="9.1981613"/>
+<point lat="45.4626043" lon="9.1978421"/>
+<point lat="45.4627938" lon="9.1975742"/>
+<point lat="45.4629385" lon="9.1971526"/>
+<point lat="45.4630291" lon="9.1968459"/>
+<point lat="45.4630745" lon="9.1966286"/>
+<point lat="45.4630841" lon="9.1962577"/>
+<point lat="45.4630940" lon="9.1957205"/>
+<point lat="45.4630951" lon="9.1951193"/>
+<point lat="45.4631404" lon="9.1949404"/>
+<point lat="45.4632486" lon="9.1947872"/>
+<point lat="45.4633029" lon="9.1946595"/>
+<point lat="45.4633037" lon="9.1941606"/>
+<point lat="45.4634030" lon="9.1940075"/>
+</polyline>
+<gruitems>1</gruitems>
+<stop sdescr="Stazione Lambrate M2" scode=" 12707" lat="45.4846300" lon="9.2358856"/>
+<stop sdescr="Via Valvassori Peroni" scode=" 12704" lat="45.4815137" lon="9.2367683"/>
+<stop sdescr="Via Bassini Via Golgi" scode=" 12698" lat="45.4805822" lon="9.2345252"/>
+<stop sdescr="Via Bassini Via Ponzio" scode=" 12499" lat="45.4793938" lon="9.2302467"/>
+<stop sdescr="P.za Leonardo da Vinci Politecnico " scode=" 12490" lat="45.4793918" lon="9.2267281"/>
+<stop sdescr="Via Pascoli P.za L. da Vinci" scode=" 12486" lat="45.4771798" lon="9.2255805"/>
+<stop sdescr="V.le Romagna Via Pascoli" scode=" 12431" lat="45.4764085" lon="9.2241828"/>
+<stop sdescr="P.za Carlo Erba" scode=" 12418" lat="45.4753603" lon="9.2216326"/>
+<stop sdescr="P.za Ascoli" scode=" 12169" lat="45.4738822" lon="9.2179678"/>
+<stop sdescr="P.za Adelaide di Savoia" scode=" 12154" lat="45.4730861" lon="9.2152909"/>
+<stop sdescr="Via Bixio" scode=" 12140" lat="45.4725266" lon="9.2112716"/>
+<stop sdescr="V.le Piave" scode=" 12132" lat="45.4720576" lon="9.2068306"/>
+<stop sdescr="P.za Tricolore" scode=" 12130" lat="45.4682861" lon="9.2068679"/>
+<stop sdescr="V.le Premuda" scode=" 12093" lat="45.4655132" lon="9.2071520"/>
+<stop sdescr="P.za Cinque Giornate" scode=" 12091" lat="45.4628124" lon="9.2073979"/>
+<stop sdescr="C.so P.ta Vittoria Camera del Lavoro " scode=" 11820" lat="45.4623697" lon="9.2032776"/>
+<stop sdescr="Palazzo di Giustizia" scode=" 11810" lat="45.4623755" lon="9.2000030"/>
+<stop sdescr="L.go Augusto" scode=" 11797" lat="45.4627938" lon="9.1975742"/>
+<stop sdescr="P.za Fontana" scode=" 11788" lat="45.4634030" lon="9.1940075"/>
+<bbox sw_x="514883" sw_y="5034124" sw_lat="45.4604837" sw_lon="9.1903649" ne_x="518865" ne_y="5037023" ne_lat="45.4864817" ne_lon="9.2414087"/>
+</lines_detail>
+

@@ -1,0 +1,119 @@
+<lines_detail>
+<polyline lname="31" arcstype="6" hexred="0" hexgreen="0" hexblue="FF" red="0" green="0" blue="255">
+<point lat="45.5599547" lon="9.2110609"/>
+<point lat="45.5596844" lon="9.2112136"/>
+<point lat="45.5595763" lon="9.2112773"/>
+<point lat="45.5594950" lon="9.2114564"/>
+<point lat="45.5595038" lon="9.2115205"/>
+<point lat="45.5595484" lon="9.2117384"/>
+<point lat="45.5598246" lon="9.2132771"/>
+<point lat="45.5599591" lon="9.2135723"/>
+<point lat="45.5599137" lon="9.2137771"/>
+<point lat="45.5599048" lon="9.2137002"/>
+<point lat="45.5599137" lon="9.2137771"/>
+</polyline>
+<polyline lname="31" arcstype="6" hexred="0" hexgreen="0" hexblue="FF" red="0" green="0" blue="255">
+<point lat="45.5599048" lon="9.2137002"/>
+<point lat="45.5579679" lon="9.2146026"/>
+<point lat="45.5569137" lon="9.2151623"/>
+<point lat="45.5564453" lon="9.2153527"/>
+<point lat="45.5558329" lon="9.2155426"/>
+<point lat="45.5557069" lon="9.2155293"/>
+<point lat="45.5550313" lon="9.2158342"/>
+<point lat="45.5546620" lon="9.2159737"/>
+<point lat="45.5544187" lon="9.2161137"/>
+<point lat="45.5541484" lon="9.2162536"/>
+<point lat="45.5534546" lon="9.2166097"/>
+<point lat="45.5533286" lon="9.2166220"/>
+<point lat="45.5525897" lon="9.2170163"/>
+<point lat="45.5515896" lon="9.2175249"/>
+<point lat="45.5514185" lon="9.2176011"/>
+<point lat="45.5512564" lon="9.2176261"/>
+<point lat="45.5511215" lon="9.2175744"/>
+<point lat="45.5508964" lon="9.2175991"/>
+<point lat="45.5497443" lon="9.2176075"/>
+<point lat="45.5487540" lon="9.2176677"/>
+<point lat="45.5481059" lon="9.2176909"/>
+<point lat="45.5478988" lon="9.2177285"/>
+<point lat="45.5475747" lon="9.2177913"/>
+<point lat="45.5459719" lon="9.2181054"/>
+<point lat="45.5458368" lon="9.2181304"/>
+<point lat="45.5457648" lon="9.2181430"/>
+<point lat="45.5456929" lon="9.2180787"/>
+<point lat="45.5398236" lon="9.2184146"/>
+<point lat="45.5390045" lon="9.2183986"/>
+<point lat="45.5386625" lon="9.2183589"/>
+<point lat="45.5375745" lon="9.2177911"/>
+<point lat="45.5374038" lon="9.2176367"/>
+<point lat="45.5338703" lon="9.2155611"/>
+<point lat="45.5337265" lon="9.2154197"/>
+<point lat="45.5333937" lon="9.2152904"/>
+<point lat="45.5330969" lon="9.2151868"/>
+<point lat="45.5299319" lon="9.2133562"/>
+<point lat="45.5298691" lon="9.2132663"/>
+<point lat="45.5288080" lon="9.2127116"/>
+<point lat="45.5279178" lon="9.2122088"/>
+<point lat="45.5269282" lon="9.2119234"/>
+<point lat="45.5266315" lon="9.2117814"/>
+<point lat="45.5262088" lon="9.2115877"/>
+<point lat="45.5257323" lon="9.2112530"/>
+<point lat="45.5254265" lon="9.2111494"/>
+<point lat="45.5227110" lon="9.2095771"/>
+<point lat="45.5206698" lon="9.2084939"/>
+<point lat="45.5187996" lon="9.2073602"/>
+<point lat="45.5167224" lon="9.2062515"/>
+<point lat="45.5154636" lon="9.2054659"/>
+<point lat="45.5130987" lon="9.2041514"/>
+<point lat="45.5115611" lon="9.2032753"/>
+<point lat="45.5088185" lon="9.2017164"/>
+<point lat="45.5067862" lon="9.2005827"/>
+<point lat="45.5062106" lon="9.2003374"/>
+<point lat="45.5041065" lon="9.1991011"/>
+<point lat="45.5015707" lon="9.1976585"/>
+<point lat="45.4994665" lon="9.1964480"/>
+<point lat="45.4980907" lon="9.1956625"/>
+<point lat="45.4964540" lon="9.1947353"/>
+<point lat="45.4959686" lon="9.1943881"/>
+<point lat="45.4958875" lon="9.1944134"/>
+<point lat="45.4924883" lon="9.1925204"/>
+<point lat="45.4921377" lon="9.1922632"/>
+<point lat="45.4920027" lon="9.1922500"/>
+<point lat="45.4903301" lon="9.1912717"/>
+<point lat="45.4899794" lon="9.1910529"/>
+<point lat="45.4896828" lon="9.1908344"/>
+<point lat="45.4895477" lon="9.1908723"/>
+<point lat="45.4894936" lon="9.1909361"/>
+<point lat="45.4894663" lon="9.1910896"/>
+<point lat="45.4895020" lon="9.1912433"/>
+<point lat="45.4896367" lon="9.1914485"/>
+</polyline>
+<gruitems>1</gruitems>
+<stop sdescr="1 Maggio" scode=" 15877" lat="45.5599547" lon="9.2110609"/>
+<stop sdescr="Monte Ortigara" scode=" 15878" lat="45.5598246" lon="9.2132771"/>
+<stop sdescr="Villa Ghirlanda" scode=" 15879" lat="45.5579679" lon="9.2146026"/>
+<stop sdescr="Gramsci" scode=" 15893" lat="45.5557069" lon="9.2155293"/>
+<stop sdescr="Libert " scode=" 15880" lat="45.5533286" lon="9.2166220"/>
+<stop sdescr="Gorky Monfalcone" scode=" 15881" lat="45.5511215" lon="9.2175744"/>
+<stop sdescr="Parco Nord Osp.Bassini " scode=" 15882" lat="45.5456929" lon="9.2180787"/>
+<stop sdescr="Parco Nord Centro Scolastico " scode=" 15883" lat="45.5374038" lon="9.2176367"/>
+<stop sdescr="Parco Nord Clerici" scode=" 15884" lat="45.5337265" lon="9.2154197"/>
+<stop sdescr="Parco Nord Torretta " scode=" 15894" lat="45.5298691" lon="9.2132663"/>
+<stop sdescr="Bignami" scode=" 14884" lat="45.5257323" lon="9.2112530"/>
+<stop sdescr="V.le Testi Via Ponale" scode=" 12311" lat="45.5227110" lon="9.2095771"/>
+<stop sdescr="V.le Testi Via S. Glicerio" scode=" 12302" lat="45.5187996" lon="9.2073602"/>
+<stop sdescr="V.le Testi V.le Rodi" scode=" 12007" lat="45.5154636" lon="9.2054659"/>
+<stop sdescr="V.le Testi Via Smith" scode=" 11987" lat="45.5130987" lon="9.2041514"/>
+<stop sdescr="V.le Testi Via S. Marcellina" scode=" 11986" lat="45.5115611" lon="9.2032753"/>
+<stop sdescr="V.le Testi Via Pianell" scode=" 11979" lat="45.5088185" lon="9.2017164"/>
+<stop sdescr="V.le Testi V.le Ca Granda" scode=" 11973" lat="45.5067862" lon="9.2005827"/>
+<stop sdescr="V.le Testi Via Dolcebuono" scode=" 11958" lat="45.5041065" lon="9.1991011"/>
+<stop sdescr="P.za Istria" scode=" 11950" lat="45.5015707" lon="9.1976585"/>
+<stop sdescr="V.le Zara Via Laurana" scode=" 11947" lat="45.4994665" lon="9.1964480"/>
+<stop sdescr="V.le Zara Via Ragusa" scode=" 11946" lat="45.4980907" lon="9.1956625"/>
+<stop sdescr="V.le Zara V.le Marche" scode=" 11944" lat="45.4959686" lon="9.1943881"/>
+<stop sdescr="Zara M3" scode=" 11639" lat="45.4921377" lon="9.1922632"/>
+<stop sdescr="P.le Lagosta" scode=" 11631" lat="45.4896828" lon="9.1908344"/>
+<stop sdescr="P.le Lagosta" scode=" 12941" lat="45.4896367" lon="9.1914485"/>
+<bbox sw_x="514734" sw_y="5036691" sw_lat="45.4835928" sw_lon="9.1885361" ne_x="517230" ne_y="5045833" ne_lat="45.5658230" ne_lon="9.2207963"/>
+</lines_detail>
+

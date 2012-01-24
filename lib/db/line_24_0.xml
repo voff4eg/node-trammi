@@ -1,0 +1,104 @@
+<lines_detail>
+<polyline lname="24" arcstype="6" hexred="0" hexgreen="0" hexblue="FF" red="0" green="0" blue="255">
+<point lat="45.4219360" lon="9.2033753"/>
+<point lat="45.4217832" lon="9.2032469"/>
+<point lat="45.4217024" lon="9.2031699"/>
+<point lat="45.4216034" lon="9.2031696"/>
+<point lat="45.4215133" lon="9.2032076"/>
+<point lat="45.4214411" lon="9.2033224"/>
+<point lat="45.4213869" lon="9.2034372"/>
+<point lat="45.4213956" lon="9.2035778"/>
+<point lat="45.4214314" lon="9.2037058"/>
+<point lat="45.4218089" lon="9.2040139"/>
+<point lat="45.4220608" lon="9.2041043"/>
+<point lat="45.4221777" lon="9.2041431"/>
+<point lat="45.4223037" lon="9.2041819"/>
+<point lat="45.4227809" lon="9.2040685"/>
+<point lat="45.4231051" lon="9.2039930"/>
+<point lat="45.4249872" lon="9.2035140"/>
+<point lat="45.4253203" lon="9.2034769"/>
+<point lat="45.4257437" lon="9.2032867"/>
+<point lat="45.4261940" lon="9.2031605"/>
+<point lat="45.4286255" lon="9.2025300"/>
+<point lat="45.4286975" lon="9.2025047"/>
+<point lat="45.4289047" lon="9.2024415"/>
+<point lat="45.4291928" lon="9.2024170"/>
+<point lat="45.4295080" lon="9.2022775"/>
+<point lat="45.4310931" lon="9.2018229"/>
+<point lat="45.4314892" lon="9.2017604"/>
+<point lat="45.4318406" lon="9.2015699"/>
+<point lat="45.4331643" lon="9.2013061"/>
+<point lat="45.4333895" lon="9.2011791"/>
+<point lat="45.4356855" lon="9.2008037"/>
+<point lat="45.4359558" lon="9.2006768"/>
+<point lat="45.4362709" lon="9.2006268"/>
+<point lat="45.4369642" lon="9.2005142"/>
+<point lat="45.4378106" lon="9.2003509"/>
+<point lat="45.4380536" lon="9.2003518"/>
+<point lat="45.4386301" lon="9.2001365"/>
+<point lat="45.4391074" lon="9.2000103"/>
+<point lat="45.4406651" lon="9.1996834"/>
+<point lat="45.4414395" lon="9.1995199"/>
+<point lat="45.4416737" lon="9.1994440"/>
+<point lat="45.4418897" lon="9.1994447"/>
+<point lat="45.4432856" lon="9.1990405"/>
+<point lat="45.4436460" lon="9.1988627"/>
+<point lat="45.4463116" lon="9.1981304"/>
+<point lat="45.4467890" lon="9.1979275"/>
+<point lat="45.4483649" lon="9.1975366"/>
+<point lat="45.4489323" lon="9.1973595"/>
+<point lat="45.4507424" lon="9.1968927"/>
+<point lat="45.4512288" lon="9.1966769"/>
+<point lat="45.4524444" lon="9.1964382"/>
+<point lat="45.4535790" lon="9.1961863"/>
+<point lat="45.4536961" lon="9.1960844"/>
+<point lat="45.4542185" lon="9.1959200"/>
+<point lat="45.4554882" lon="9.1956302"/>
+<point lat="45.4559833" lon="9.1955808"/>
+<point lat="45.4561005" lon="9.1954788"/>
+<point lat="45.4562446" lon="9.1954282"/>
+<point lat="45.4564430" lon="9.1952370"/>
+<point lat="45.4568400" lon="9.1946373"/>
+<point lat="45.4575801" lon="9.1934759"/>
+<point lat="45.4576614" lon="9.1933355"/>
+<point lat="45.4578057" lon="9.1931186"/>
+<point lat="45.4582749" lon="9.1924551"/>
+<point lat="45.4597375" lon="9.1898636"/>
+<point lat="45.4602972" lon="9.1888678"/>
+<point lat="45.4605497" lon="9.1885488"/>
+<point lat="45.4606310" lon="9.1883828"/>
+<point lat="45.4607572" lon="9.1883193"/>
+<point lat="45.4608742" lon="9.1883197"/>
+<point lat="45.4610451" lon="9.1883586"/>
+<point lat="45.4616480" lon="9.1884630"/>
+<point lat="45.4626382" lon="9.1884663"/>
+<point lat="45.4627641" lon="9.1885050"/>
+<point lat="45.4628270" lon="9.1885564"/>
+<point lat="45.4629079" lon="9.1886334"/>
+<point lat="45.4629618" lon="9.1887104"/>
+<point lat="45.4632043" lon="9.1890437"/>
+<point lat="45.4633121" lon="9.1891848"/>
+<point lat="45.4633478" lon="9.1893256"/>
+<point lat="45.4632662" lon="9.1897091"/>
+</polyline>
+<gruitems>1</gruitems>
+<stop sdescr="Vigentino" scode=" 15082" lat="45.4219360" lon="9.2033753"/>
+<stop sdescr="Via Ripamonti Via Chopin" scode=" 15083" lat="45.4253203" lon="9.2034769"/>
+<stop sdescr="Via Ripamonti Via Val di Sole" scode=" 15084" lat="45.4291928" lon="9.2024170"/>
+<stop sdescr="Via Ripamonti Via Noto" scode=" 11720" lat="45.4314892" lon="9.2017604"/>
+<stop sdescr="Via Ripamonti Via dell Assunta" scode=" 11722" lat="45.4331643" lon="9.2013061"/>
+<stop sdescr="Via Ripamonti Via Quaranta" scode=" 11714" lat="45.4356855" lon="9.2008037"/>
+<stop sdescr="Via Ripamonti Via Barletta" scode=" 11743" lat="45.4380536" lon="9.2003518"/>
+<stop sdescr="Via Ripamonti Via Serio" scode=" 11738" lat="45.4418897" lon="9.1994447"/>
+<stop sdescr="Via Ripamonti Via Lorenzini" scode=" 11740" lat="45.4432856" lon="9.1990405"/>
+<stop sdescr="V.le Isonzo Via Ripamonti" scode=" 11736" lat="45.4463116" lon="9.1981304"/>
+<stop sdescr="Via Ripamonti Via Bellezza" scode=" 11765" lat="45.4483649" lon="9.1975366"/>
+<stop sdescr="Via Ripamonti V.le Sabotino" scode=" 11756" lat="45.4507424" lon="9.1968927"/>
+<stop sdescr="C.so P.ta Vigentina" scode=" 11758" lat="45.4535790" lon="9.1961863"/>
+<stop sdescr="Crocetta M3" scode=" 11761" lat="45.4559833" lon="9.1955808"/>
+<stop sdescr="C.so P.ta Romana Via S. Sofia" scode=" 11520" lat="45.4582749" lon="9.1924551"/>
+<stop sdescr="Missori M3" scode=" 11511" lat="45.4605497" lon="9.1885488"/>
+<stop sdescr="Duomo M1 M3" scode=" 11512" lat="45.4632662" lon="9.1897091"/>
+<bbox sw_x="514619" sw_y="5029395" sw_lat="45.4179227" sw_lon="9.1868476" ne_x="516078" ne_y="5034830" ne_lat="45.4668120" ne_lon="9.2056729"/>
+</lines_detail>
+

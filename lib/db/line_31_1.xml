@@ -1,0 +1,119 @@
+<lines_detail>
+<polyline lname="31" arcstype="6" hexred="0" hexgreen="0" hexblue="FF" red="0" green="0" blue="255">
+<point lat="45.4896367" lon="9.1914485"/>
+<point lat="45.4898888" lon="9.1914365"/>
+<point lat="45.4902036" lon="9.1915912"/>
+<point lat="45.4923976" lon="9.1929424"/>
+<point lat="45.4953381" lon="9.1946035"/>
+<point lat="45.4957429" lon="9.1947456"/>
+<point lat="45.4976942" lon="9.1958915"/>
+<point lat="45.4990071" lon="9.1966640"/>
+<point lat="45.5010122" lon="9.1978614"/>
+<point lat="45.5041147" lon="9.1995235"/>
+<point lat="45.5058323" lon="9.2004513"/>
+<point lat="45.5059582" lon="9.2005285"/>
+<point lat="45.5062010" lon="9.2006574"/>
+<point lat="45.5067944" lon="9.2010564"/>
+<point lat="45.5080982" lon="9.2018163"/>
+<point lat="45.5110026" lon="9.2034782"/>
+<point lat="45.5126122" lon="9.2044057"/>
+<point lat="45.5149681" lon="9.2057330"/>
+<point lat="45.5161731" lon="9.2063391"/>
+<point lat="45.5183041" lon="9.2076017"/>
+<point lat="45.5205702" lon="9.2088136"/>
+<point lat="45.5223234" lon="9.2099213"/>
+<point lat="45.5228811" lon="9.2101283"/>
+<point lat="45.5260100" lon="9.2119711"/>
+<point lat="45.5261270" lon="9.2119716"/>
+<point lat="45.5262170" lon="9.2120103"/>
+<point lat="45.5262891" lon="9.2119594"/>
+<point lat="45.5263432" lon="9.2118828"/>
+<point lat="45.5263884" lon="9.2118189"/>
+<point lat="45.5264514" lon="9.2117807"/>
+<point lat="45.5265235" lon="9.2117682"/>
+<point lat="45.5266315" lon="9.2117814"/>
+<point lat="45.5269282" lon="9.2119234"/>
+<point lat="45.5279178" lon="9.2122088"/>
+<point lat="45.5288080" lon="9.2127116"/>
+<point lat="45.5298690" lon="9.2133175"/>
+<point lat="45.5299138" lon="9.2134201"/>
+<point lat="45.5330969" lon="9.2151868"/>
+<point lat="45.5333937" lon="9.2152904"/>
+<point lat="45.5337174" lon="9.2154709"/>
+<point lat="45.5338431" lon="9.2156251"/>
+<point lat="45.5374037" lon="9.2176880"/>
+<point lat="45.5375474" lon="9.2178422"/>
+<point lat="45.5386625" lon="9.2183589"/>
+<point lat="45.5390045" lon="9.2183986"/>
+<point lat="45.5398236" lon="9.2184146"/>
+<point lat="45.5456928" lon="9.2181427"/>
+<point lat="45.5457737" lon="9.2181943"/>
+<point lat="45.5458368" lon="9.2181304"/>
+<point lat="45.5459719" lon="9.2181054"/>
+<point lat="45.5475747" lon="9.2177913"/>
+<point lat="45.5478988" lon="9.2177285"/>
+<point lat="45.5481059" lon="9.2176909"/>
+<point lat="45.5487540" lon="9.2176677"/>
+<point lat="45.5497443" lon="9.2176075"/>
+<point lat="45.5508964" lon="9.2175991"/>
+<point lat="45.5511214" lon="9.2176128"/>
+<point lat="45.5512473" lon="9.2176902"/>
+<point lat="45.5514185" lon="9.2176011"/>
+<point lat="45.5515896" lon="9.2175249"/>
+<point lat="45.5525897" lon="9.2170163"/>
+<point lat="45.5533465" lon="9.2166733"/>
+<point lat="45.5534635" lon="9.2166610"/>
+<point lat="45.5541484" lon="9.2162536"/>
+<point lat="45.5544187" lon="9.2161137"/>
+<point lat="45.5546620" lon="9.2159737"/>
+<point lat="45.5550313" lon="9.2158342"/>
+<point lat="45.5557248" lon="9.2155806"/>
+<point lat="45.5558418" lon="9.2156067"/>
+<point lat="45.5564453" lon="9.2153527"/>
+<point lat="45.5569137" lon="9.2151623"/>
+<point lat="45.5579858" lon="9.2146411"/>
+<point lat="45.5580758" lon="9.2146543"/>
+<point lat="45.5583462" lon="9.2144631"/>
+<point lat="45.5588867" lon="9.2142473"/>
+<point lat="45.5592741" lon="9.2140694"/>
+<point lat="45.5597875" lon="9.2138920"/>
+<point lat="45.5599137" lon="9.2137771"/>
+<point lat="45.5599947" lon="9.2137646"/>
+<point lat="45.5610398" lon="9.2132689"/>
+<point lat="45.5610669" lon="9.2131793"/>
+<point lat="45.5610851" lon="9.2130768"/>
+<point lat="45.5608004" lon="9.2112947"/>
+<point lat="45.5607469" lon="9.2110126"/>
+<point lat="45.5606571" lon="9.2109097"/>
+<point lat="45.5605040" lon="9.2109348"/>
+<point lat="45.5599547" lon="9.2110609"/>
+</polyline>
+<gruitems>1</gruitems>
+<stop sdescr="P.le Lagosta" scode=" 12941" lat="45.4896367" lon="9.1914485"/>
+<stop sdescr="Zara M3" scode=" 11898" lat="45.4923976" lon="9.1929424"/>
+<stop sdescr="V.le Zara V.le Marche" scode=" 11903" lat="45.4953381" lon="9.1946035"/>
+<stop sdescr="V.le Zara Via Ragusa" scode=" 11945" lat="45.4976942" lon="9.1958915"/>
+<stop sdescr="V.le Zara Via Laurana" scode=" 11948" lat="45.4990071" lon="9.1966640"/>
+<stop sdescr="P.za Istria" scode=" 11956" lat="45.5010122" lon="9.1978614"/>
+<stop sdescr="V.le Testi Via Dolcebuono" scode=" 11961" lat="45.5041147" lon="9.1995235"/>
+<stop sdescr="V.le Testi V.le Ca Granda" scode=" 11977" lat="45.5067944" lon="9.2010564"/>
+<stop sdescr="V.le Testi Via Pianell" scode=" 11978" lat="45.5080982" lon="9.2018163"/>
+<stop sdescr="V.le Testi Via S. Marcellina" scode=" 11985" lat="45.5110026" lon="9.2034782"/>
+<stop sdescr="V.le Testi Via Smith" scode=" 11990" lat="45.5126122" lon="9.2044057"/>
+<stop sdescr="V.le Testi V.le Rodi" scode=" 12280" lat="45.5149681" lon="9.2057330"/>
+<stop sdescr="V.le Testi Via S. Glicerio" scode=" 12306" lat="45.5183041" lon="9.2076017"/>
+<stop sdescr="V.le Testi Via Ponale" scode=" 12312" lat="45.5223234" lon="9.2099213"/>
+<stop sdescr="Bignami" scode=" 12320" lat="45.5260100" lon="9.2119711"/>
+<stop sdescr="Parco Nord Torretta " scode=" 15895" lat="45.5299138" lon="9.2134201"/>
+<stop sdescr="Parco Nord Clerici" scode=" 15885" lat="45.5338431" lon="9.2156251"/>
+<stop sdescr="Parco Nord Centro Scolastico " scode=" 15886" lat="45.5375474" lon="9.2178422"/>
+<stop sdescr="Parco Nord Osp.Bassini " scode=" 15887" lat="45.5457737" lon="9.2181943"/>
+<stop sdescr="Gorky Monfalcone" scode=" 15888" lat="45.5512473" lon="9.2176902"/>
+<stop sdescr="Libert " scode=" 15889" lat="45.5534635" lon="9.2166610"/>
+<stop sdescr="Gramsci" scode=" 15896" lat="45.5558418" lon="9.2156067"/>
+<stop sdescr="Villa Ghirlanda" scode=" 15890" lat="45.5580758" lon="9.2146543"/>
+<stop sdescr="Monte Ortigara" scode=" 15926" lat="45.5597875" lon="9.2138920"/>
+<stop sdescr="1 Maggio" scode=" 15877" lat="45.5599547" lon="9.2110609"/>
+<bbox sw_x="514785" sw_y="5036702" sw_lat="45.4836907" sw_lon="9.1891890" ne_x="517226" ne_y="5045966" ne_lat="45.5670203" ne_lon="9.2207498"/>
+</lines_detail>
+
