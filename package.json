@@ -12,7 +12,7 @@
            "url": "http://github.com/albertosantini/node-trammi/raw/master/LICENSE"
         }
     ],
-    "engines" : { "node" : ">=0.6.x" },
+    "engines" : { "node" : ">=0.4.x" },
     "dependencies" : {
         "xml2js": ">=0.1.13",
         "request": ">=2.9.100",
