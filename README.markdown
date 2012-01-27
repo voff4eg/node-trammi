@@ -11,12 +11,14 @@ arrivals of the next vehicles are displayed.
 Example
 ========
 
-    var trammi = require("../lib/trammi");
+    var trammi = require("trammi");
 
+    // stop code 12254, line 1
     trammi.getStopInfo(12254, 1, function (err, info) {
         console.log(info);
     });
 
+    // line 1, stop number 39
     trammi.getWaitingTime("1a", 39, function (err, timetable) {
         var i, n;
 
