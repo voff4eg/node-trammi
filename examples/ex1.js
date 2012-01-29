@@ -2,17 +2,13 @@
 
 var trammi = require("../lib/trammi");
 
-var stopCode, stopLine;
+function displayStopInfo(err, info) {
+    if (err) {
+        console.log("stop info empty");
+    } else {
+        console.log(info);
+    }
+}
 
-
-stopCode = 12254;
-stopLine = 1;
-trammi.getStopInfo(stopCode, stopLine, function (err, info) {
-    console.log(1, 12254, info);
-});
-
-stopCode = 16978;
-stopLine = 12;
-trammi.getStopInfo(stopCode, stopLine, function (err, info) {
-    console.log(12, 16978, info);
-});
+trammi.getStopInfo(12254, 1, displayStopInfo);
+trammi.getStopInfo(16978, 12, displayStopInfo);

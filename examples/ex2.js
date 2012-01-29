@@ -7,7 +7,7 @@ function displayTimeTable(timetable) {
 
     n = timetable.length;
     for (i = 0; i < n; i += 1) {
-        console.log("Mezzo", i + 1, "Attesa =", timetable[i]);
+        console.log("Mezzo", i + 1, "Attesa =", timetable[i].eta);
     }
     console.log("---");
 }
