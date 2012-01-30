@@ -37,7 +37,7 @@ To install with [npm](http://github.com/isaacs/npm):
 
     npm install trammi
 
-Tested with node 0.6.8.
+Tested with node 0.6.9.
 
 Notes
 =====
@@ -66,14 +66,14 @@ It retrieves the info of the stop.
 
     - *eta* estimated time of arrival (string).
 
-getStopsList(l, callback)
+getStopsList(lineName, callback)
 ------------
 
 It retrieves all the stops of a line.
 
 **Params**
 
-- *l* name of the line.
+- *lineName* name of the line.
 
 **Callback response**
 
@@ -99,7 +99,7 @@ It retrieves the arrivals of all the vehicles until a stop.
 - *timetable* array containing the estimated time of arrivals in minutes.
 
 
-startServer(port)
+startServer(port, publicDir)
 -----------
 
 It starts a server providing a frontend for the module.
@@ -107,4 +107,6 @@ It starts a server providing a frontend for the module.
 **Params**
 
 - *port* port of the server
+
+- *publicDir* directory of public folder containing the frontend
 
