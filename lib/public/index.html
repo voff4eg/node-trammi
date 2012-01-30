@@ -10,7 +10,6 @@
     <meta name="author" content="albertosantini">
     <meta name="description" content="atm, milano, tram, bus">
 
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.4.1/build/cssfonts/cssfonts-min.css&3.4.1/build/cssgrids/cssgrids-min.css&3.4.1/build/cssreset/cssreset-min.css&3.4.1/build/cssbase/cssbase-min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
     <link rel="shortcut icon" href="/favicon.ico">
@@ -47,6 +46,14 @@
                     box-shadow: 0 1px 2px rgba(0,0,0,.15);
         }
 
+        span.label {
+            margin-left: 5px;
+        }
+
+        div.btn.small {
+            margin: 15px;
+        }
+
         .yui3-loading {
             background: url(../img/spinner.gif) no-repeat center;
         }
@@ -69,25 +76,30 @@
     <div class="content yui3-skin-sam yui3-loading">
 
         <div class="page-header">
-            <h1>Ricerca e seleziona una fermata
+            <h1>Cerca la tua fermata
                 <small>(Es. "tram 1" o "arena")</small>
             </h1>
         </div>
 
         <div id="stopSearchContainer"></div>
+
         <div id="timeTableContainer"></div>
 
-        <div class="progress info striped">
-            <div id="nextUpdate" class="bar"></div>
-            <span class="label notice">
-                Prossimo aggiornamento circa ogni minuto
-            </span>
+        <div class="btn small" href="#">
+            <span id="nextUpdate"></span>
+            <i class="icon time"></i>
+            Selezionata la fermata, i tempi di attesa si aggiornano
+            circa ogni minuto e sono espressi in minuti.
         </div>
 
     </div>
 
     <footer>
-        <p>P0wer3d by <a href="http://nodester.com/">Nodester</a></p>
+        <p>
+            P0wer3d by <a href="http://nodester.com/">Nodester</a> /
+            Icons from <a href="http://glyphicons.com/">Glyphicons Free</a>,
+            licensed under CC BY 3.0.
+        </p>
     </footer>
 
 </div>
