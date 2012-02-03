@@ -47,6 +47,21 @@ At the moment only tram lines are implemented.
 Methods
 =======
 
+getStops(query, cb)
+--------
+
+It finds a list of stops if the words, separated by space(s), contained in the
+query, match the field 'acdescr' of the stop.
+
+**Params**
+
+- *query* the chars typed in the autocomplete
+
+**Callback response**
+
+- *stops* array of stops mathcing the query.
+
+
 getStopInfo(stop, stopLine, cb)
 -----------
 
@@ -69,7 +84,8 @@ It retrieves the info of the stop.
 getStopsList(lineName, callback)
 ------------
 
-It retrieves all the stops of a line.
+It retrieves all the stops of a line. On server side there is a cache with a
+60 secs. expiring time.
 
 **Params**
 
