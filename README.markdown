@@ -59,7 +59,7 @@ query, match the field 'acdescr' of the stop.
 
 **Callback response**
 
-- *stops* array of stops mathcing the query.
+- *stops* array of stops matching the query.
 
 
 getStopInfo(stop, stopLine, cb)
