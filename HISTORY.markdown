@@ -1,3 +1,10 @@
+0.4.1 / 2012-02-04
+==================
+
+* Moved conditional IE scripts in yuiConfig.
+
+* Replaced search with indexOf in getStops.
+
 0.4.0 / 2012-02-03
 ==================
 
