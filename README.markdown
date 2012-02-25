@@ -37,7 +37,7 @@ To install with [npm](http://github.com/isaacs/npm):
 
     npm install trammi
 
-Tested with node 0.6.9.
+Tested with node 0.4.9 and 0.6.11.
 
 Notes
 =====
@@ -122,7 +122,7 @@ It starts a server providing a frontend for the module.
 
 **Params**
 
-- *port* port of the server
+- *port* port of the server.
 
-- *publicDir* directory of public folder containing the frontend
+- *publicDir* directory of public folder containing the frontend.
 

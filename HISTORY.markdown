@@ -1,3 +1,10 @@
+0.4.2 / 2012-02-25
+==================
+
+* Updated tw bootstrap 2.0.1.
+
+* The timetable is called after the stop info and every minute.
+
 0.4.1 / 2012-02-04
 ==================
 
