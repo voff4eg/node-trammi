@@ -1,3 +1,8 @@
+0.4.3 / 2012-02-25
+==================
+
+* Forcing jsdom@0.2.10 because contextify@0.1 is not supported on windows.
+
 0.4.2 / 2012-02-25
 ==================
 
