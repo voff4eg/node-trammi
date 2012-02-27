@@ -1,3 +1,8 @@
+0.4.5 / 2012-02-27
+==================
+
+* Forced again jsdom@0.2.10 due to an incompaatibility with nodester 0.4.9.
+
 0.4.4 / 2012-02-27
 ==================
 
