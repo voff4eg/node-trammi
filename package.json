@@ -15,10 +15,10 @@
     "engines" : { "node" : ">=0.4.x" },
     "dependencies" : {
         "xml2js": ">=0.1.13",
-        "request": ">=2.9.100",
+        "request": ">=2.9.152",
         "jquery": ">=1.6.3",
         "dnode": ">=0.9.6",
-        "connect": ">=1.8.5"
+        "connect": "=1.8.5"
     }
 }
 
