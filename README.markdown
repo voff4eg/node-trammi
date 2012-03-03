@@ -115,12 +115,14 @@ It retrieves the arrivals of all the vehicles until a stop.
 - *timetable* array containing the estimated time of arrivals in minutes.
 
 
-startServer(port, publicDir)
+startServer(connect, port, publicDir)
 -----------
 
 It starts a server providing a frontend for the module.
 
 **Params**
+
+- *connect* connect object.
 
 - *port* port of the server.
 
