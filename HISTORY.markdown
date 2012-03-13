@@ -1,3 +1,31 @@
+0.4.11 / 2012-03-??
+===================
+
+* Updated tw bootstrap 2.0.2.
+
+* Deleted connect logger.
+
+0.4.10 / 2012-03-04
+===================
+
+* Added connect logger.
+
+0.4.9 / 2012-03-03
+==================
+
+* Rollback to the original approach.
+
+0.4.8 / 2012-03-03
+==================
+
+* Replaced express module with connect one and moved connect instance outside
+startServer method.
+
+0.4.7 / 2012-03-03
+==================
+
+* Replaced connect module with express one.
+
 0.4.6 / 2012-02-28
 ==================
 
