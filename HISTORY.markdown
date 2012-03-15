@@ -1,9 +1,11 @@
-0.4.11 / 2012-03-??
+0.4.11 / 2012-03-15
 ===================
 
 * Updated tw bootstrap 2.0.2.
 
 * Deleted connect logger.
+
+* Fix history doc.
 
 0.4.10 / 2012-03-04
 ===================
