@@ -44,6 +44,9 @@ Notes
 
 At the moment only tram lines are implemented.
 
+In support folder, there is the script to recreate the database files, generated
+in lib folder as 'trammiDB...' files.
+
 Methods
 =======
 
@@ -115,7 +118,7 @@ It retrieves the arrivals of all the vehicles until a stop.
 - *timetable* array containing the estimated time of arrivals in minutes.
 
 
-startServer(port, publicDir, app, express)
+startServer(port, publicDir, appInst, expressInst)
 -----------
 
 It starts a server providing a frontend for the module.
@@ -134,8 +137,8 @@ The method adds the following routes to the express instance:
 
 - *publicDir* directory of public folder containing the frontend.
 
-- *app* an instance of the express.HTTPServer, created with createServer().
+- *appInst* an instance of the express.HTTPServer, created with createServer().
 
-- *express* an instance of the express module.
+- *expressInst* an instance of the express module.
 
 

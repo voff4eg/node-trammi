@@ -79,11 +79,14 @@ var lines = {
 var line, counter = 0, parser = new xml2js.Parser();
 
 function isLinkAdded(net, start, end, line) {
+    var flag;
     if (net[start].to === end && net[start].l === line) {
-        return true;
+        flag = true;
     } else {
-        return false;
+        flag = false;
     }
+
+    return flag;
 }
 
 function findStopNeighbors(stopLine, stopCode, stopDescr) {
@@ -148,23 +151,23 @@ function createNet() {
 }
 
 function afterLoading() {
-    var fileLines = __dirname + '/trammiDBLines.js',
-        fileStops = __dirname + '/trammiDBStops.js',
-        fileNet = __dirname + '/trammiDBNet.js';
+    var fileLines =  '../lib/trammiDBLines.js',
+        fileStops = '../lib/trammiDBStops.js',
+        fileNet = '../lib/trammiDBNet.js';
 
-    fs.writeFile(fileLines, 'exports.lines = ' +
+    fs.writeFile(fileLines, 'module.exports = ' +
         util.inspect(lines, false, null), function (err) {
             if (err) {
                 throw err;
             }
         });
-    fs.writeFile(fileStops, 'exports.stops = ' +
+    fs.writeFile(fileStops,  'module.exports = ' +
         util.inspect(stops, false, null), function (err) {
             if (err) {
                 throw err;
             }
         });
-    fs.writeFile(fileNet, 'exports.net = ' +
+    fs.writeFile(fileNet,  'module.exports = ' +
         util.inspect(createNet(), false, null), function (err) {
             if (err) {
                 throw err;
@@ -173,7 +176,7 @@ function afterLoading() {
 }
 
 function readFile(l) {
-    var filename = __dirname + '/db/' + lines[l].file + '.xml';
+    var filename = './db/' + lines[l].file + '.xml';
 
     fs.readFile(filename, function (err, data) {
         parser.parseString(data, function (err, result) {

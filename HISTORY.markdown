@@ -3,6 +3,8 @@
 
 * Moved frontend folder coherent with joyent setup.
 
+* Moved db creation to support folder.
+
 0.5.0 / 2012-03-28
 ===================
 

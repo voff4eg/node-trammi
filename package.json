@@ -14,10 +14,12 @@
     ],
     "engines" : { "node" : ">=0.4.x" },
     "dependencies" : {
-        "xml2js": ">=0.1.13",
         "request": ">=2.9.152",
         "jquery": ">=1.6.3",
         "express": ">=2.5.8"
+    },
+    "devDependencies" : {
+        "xml2js": ">=0.1.13"
     }
 }
 
