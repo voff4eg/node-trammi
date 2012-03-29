@@ -37,7 +37,7 @@ To install with [npm](http://github.com/isaacs/npm):
 
     npm install trammi
 
-Tested with node 0.4.9 and 0.6.11.
+Tested with node 0.4.9 and 0.6.14.
 
 Notes
 =====
@@ -115,14 +115,27 @@ It retrieves the arrivals of all the vehicles until a stop.
 - *timetable* array containing the estimated time of arrivals in minutes.
 
 
-startServer(port, publicDir)
+startServer(port, publicDir, app, express)
 -----------
 
 It starts a server providing a frontend for the module.
+
+The method adds the following routes to the express instance:
+
+- /trammi/getStops
+
+- /trammi/getStopInfo
+
+- /trammi/getTimetable
 
 **Params**
 
 - *port* port of the server.
 
 - *publicDir* directory of public folder containing the frontend.
+
+- *app* an instance of the express.HTTPServer, created with createServer().
+
+- *express* an instance of the express module.
+
 

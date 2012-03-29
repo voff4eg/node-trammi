@@ -1,3 +1,8 @@
+0.5.1 / 2012-03-29
+===================
+
+* Moved frontend folder coherent with joyent setup.
+
 0.5.0 / 2012-03-28
 ===================
 
