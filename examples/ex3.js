@@ -1,9 +1,8 @@
 /*jslint node:true, sloppy:true */
 
-var trammi = require('../lib/trammi'),
-    port = 8081;
+var trammi = require('../lib/trammi');
 
-trammi.startServer(port);
+trammi.startServer(8081, "public/trammi");
 
-console.log("trammi started on port", port);
+console.log("trammi started");
 
