@@ -14,9 +14,10 @@
     ],
     "engines" : { "node" : ">=0.4.x" },
     "dependencies" : {
-        "request": ">=2.11.1",
+        "memory-cache": ">=0.0.4",
+        "request": ">=2.11.4",
         "jquery": ">=1.7.3",
-        "express": ">=2.5.11"
+        "express": ">=2.5.x"
     },
     "devDependencies" : {
         "xml2js": ">=0.1.13"
