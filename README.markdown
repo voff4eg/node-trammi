@@ -37,7 +37,7 @@ To install with [npm](http://github.com/isaacs/npm):
 
     npm install trammi
 
-Tested with node 0.4.9 and 0.6.14.
+Tested with node 0.8.x.
 
 Notes
 =====
