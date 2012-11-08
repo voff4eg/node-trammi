@@ -1,3 +1,10 @@
+0.5.7 / 2012-11-08
+===================
+
+* Fix font and break in timetable.
+
+* Update to Bootstrap 2.2.1.
+
 0.5.6 / 2012-10-30
 ===================
 
