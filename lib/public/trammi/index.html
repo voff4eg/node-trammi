@@ -33,6 +33,7 @@
 
         #timeTableContainer ul {
             list-style: none;
+            margin: 20px;
         }
 
         #timeTableContainer li {
@@ -54,6 +55,10 @@
             height: 28px;
         }
 
+        #timeTableContainer li:only-child {
+            height: 16px;
+            line-height: 16px;
+        }
     </style>
 </head>
 
@@ -72,21 +77,27 @@
 
     <div class="row">
 
+        <div class="span2">
+        </div>
+
         <div class="span8">
-            <div class="hero-unit">
+            <div class="well well-large">
                 <h1>Tram a Milano!</h1>
-                <p class="lead">Scopri in quanto tempo i tram arriveranno alla tua fermata!</p>
+                <p class="lead">Scopri quanti tram ed in quanto tempo
+                arriveranno alla tua fermata!
+                </p>
                 <p>Cerca, per esempio, "tram 1" o "arena". Selezionata la
                 fermata, i tempi di attesa si aggiornano circa ogni minuto e
                 sono espressi in minuti.
                 </p>
+                <div id="stopSearchContainer"></div>
             </div>
-
-            <div id="stopSearchContainer"></div>
         </div>
 
-        <div class="span4">
-            <i class="icon-time"></i>&nbsp;<span id="nextUpdate"></span>
+        <div class="span2">
+            <p class="pull-right">
+                <span id="nextUpdate"></span>&nbsp;<i class="icon-time"></i>
+            </p>
             <div id="timeTableContainer"></div>
         </div>
 
