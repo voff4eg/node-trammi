@@ -11,60 +11,57 @@
     <meta name="description" content="atm, milano, tram, bus">
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
 
     <link rel="shortcut icon" href="/favicon.ico">
 
     <style>
         html, body {
-            padding-top: 20px;
-            background-color: #eee;
             background-image: url(../img/grid-18px-masked.png);
             background-repeat: repeat-x;
-        }
-
-        .page-header {
-            background-color: #f5f5f5;
-            padding: 20px 20px 10px;
-            margin: -20px -20px 20px;
+            margin-top: 20px;
         }
 
         .container > footer p {
-            margin: 10px;
-            text-align: right;
-        }
-
-        .content {
-            height: 500px;
-            background-color: #fff;
-            padding: 20px;
-            margin: 0 -20px;
-            -webkit-border-radius: 0 0 6px 6px;
-               -moz-border-radius: 0 0 6px 6px;
-                    border-radius: 0 0 6px 6px;
-            -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-               -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-                    box-shadow: 0 1px 2px rgba(0,0,0,.15);
+            margin: 64px;
         }
 
         span.label {
             margin-left: 5px;
         }
 
-        .btn-group .btn {
-            cursor: default;
-        }
-
         div.btn.small {
-            margin: 15px;
             cursor: default;
-        }
-
-        .yui3-loading {
-            background: url(../img/spinner.gif) no-repeat center;
         }
 
         .yui3-aclist-list {
             font-size: '14px'
+        }
+
+        #timeTableContainer ul {
+            list-style: none;
+        }
+
+        #timeTableContainer li {
+            background: transparent url(../img/line-stop.png) no-repeat;
+            padding-left: 40px;
+            width: 300px;
+            height: 40px;
+            line-height: 40px;
+            opacity: 0.7;
+            overflow: hidden;
+            cursor: pointer;
+            /* border: 1px solid rgba(25,25,25,0.3); */
+        }
+
+        #timeTableContainer li:first-child {
+            background-position: left;
+            height: 17px;
+            line-height: 17px;
+        }
+
+        #timeTableContainer li:last-child {
+            height: 28px;
         }
 
     </style>
@@ -81,32 +78,34 @@
   </div>
 </div>
 
-<div class="container">
+<div class="container yui3-skin-sam">
 
-    <div class="content yui3-skin-sam yui3-loading">
+    <div class="row">
 
-        <div class="page-header">
-            <h1>Cerca la tua fermata
-                <small>(Es. "tram 1" o "arena")</small>
-            </h1>
+        <div class="span8">
+            <div class="hero-unit">
+                <h1>Tram a Milano!</h1>
+                <p class="lead">Scopri in quanto tempo i tram arriveranno alla tua fermata!</p>
+                <p>Cerca, per esempio, "tram 1" o "arena". Selezionata la
+                fermata, i tempi di attesa si aggiornano circa ogni minuto e
+                sono espressi in minuti.
+                </p>
+            </div>
+
+            <div id="stopSearchContainer"></div>
         </div>
 
-        <div id="stopSearchContainer"></div>
-
-        <div id="timeTableContainer"></div>
-
-        <div class="btn small">
-            <span id="nextUpdate"></span>
-            <i class="icon-time"></i>
-            Selezionata la fermata, i tempi di attesa si aggiornano
-            circa ogni minuto e sono espressi in minuti.
+        <div class="span4">
+            <i class="icon-time"></i>&nbsp;<span id="nextUpdate"></span>
+            <div id="timeTableContainer"></div>
         </div>
 
     </div>
 
-    <footer>
+    <footer class="pull-right">
         <p>
             P0wer3d by <a href="http://nodejs.org/">Node.js</a> /
+            D3v3l0p3d by <a href="https://github.com/albertosantini">as</a> /
             Icons from <a href="http://glyphicons.com/">Glyphicons Free</a>,
             licensed under CC BY 3.0.
         </p>
