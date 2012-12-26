@@ -1,3 +1,10 @@
+0.6.0 / 2012-12-26
+===================
+
+* Update to YUI 3.8.0.
+* Update to Bootstrap 2.2.2.
+* Refactor layout using a clean stop view based on a list of stops (vs. button).
+
 0.5.8 / 2012-11-09
 ===================
 
