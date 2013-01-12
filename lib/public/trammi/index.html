@@ -37,27 +37,12 @@
         }
 
         #timeTableContainer li {
-            background: transparent url(../img/line-stop.png) no-repeat;
-            padding-left: 40px;
-            height: 40px;
-            line-height: 40px;
+            background: transparent url(../img/tram.png) no-repeat;
+            line-height: 32px;
+            margin: 10px;
             opacity: 0.7;
             overflow: hidden;
-        }
-
-        #timeTableContainer li:first-child {
-            background-position: left;
-            height: 17px;
-            line-height: 17px;
-        }
-
-        #timeTableContainer li:last-child {
-            height: 28px;
-        }
-
-        #timeTableContainer li:only-child {
-            height: 16px;
-            line-height: 16px;
+            padding-left: 40px;
         }
     </style>
 </head>
@@ -92,13 +77,14 @@
                 </p>
                 <div id="stopSearchContainer"></div>
             </div>
-        </div>
 
-        <div class="span2">
             <p class="pull-right">
                 <span id="nextUpdate"></span>&nbsp;<i class="icon-time"></i>
             </p>
             <div id="timeTableContainer"></div>
+        </div>
+
+        <div class="span2">
         </div>
 
     </div>
