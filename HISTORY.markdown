@@ -1,3 +1,9 @@
+0.6.1 / 2013-01-12
+===================
+
+* Replaced line stop image with a tram one.
+* Moved the timetable view to the center below the search field.
+
 0.6.0 / 2012-12-26
 ===================
 
