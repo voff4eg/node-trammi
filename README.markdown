@@ -47,6 +47,17 @@ At the moment only tram lines are implemented.
 In support folder, there is the script to recreate the database files, generated
 in lib folder as 'trammiDB...' files.
 
+Todo
+====
+
+It would be interesting to add weather info:
+
+- [wunderground](http://www.wunderground.com/weather/api/d/documentation.html)
+
+- [Historical weather data](http://allthingsr.blogspot.it/2012/04/getting-historical-weather-data-in-r.html)
+
+- [Tempo di Milano](http://www.tempodimilano.it/)
+
 Methods
 =======
 
