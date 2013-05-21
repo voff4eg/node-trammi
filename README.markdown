@@ -1,15 +1,17 @@
 TRAMMI
 ======
 
-This module contains an app to estimate the time of arrival of tram and bus,
-the public transport of Milan city.
+TramMI is a web app to estimate the time of arrival of tram and bus, the public
+transport of Milan city.
+
+The official apps display only the latest estimated time of arrival.
 
 After you selected the number line and the stop, it is displayed immediately the
 waiting time of the next arrival. Then, every minute, the estimated time of
 arrivals of the next vehicles are displayed.
 
-Example
-========
+API example
+===========
 
     var trammi = require("trammi");
 
@@ -50,12 +52,11 @@ in lib folder as 'trammiDB...' files.
 Todo
 ====
 
-It would be interesting to add weather info:
+Weather info
+------------
 
 - [wunderground](http://www.wunderground.com/weather/api/d/documentation.html)
-
 - [Historical weather data](http://allthingsr.blogspot.it/2012/04/getting-historical-weather-data-in-r.html)
-
 - [Tempo di Milano](http://www.tempodimilano.it/)
 
 Methods
