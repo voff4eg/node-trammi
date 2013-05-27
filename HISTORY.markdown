@@ -1,3 +1,9 @@
+0.6.4 / 2013-05-27
+===================
+
+* Update to YUI 3.10.1.
+* Fix an issue with stop request due to a change in ATM backend.
+
 0.6.3 / 2013-05-05
 ===================
 
