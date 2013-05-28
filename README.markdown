@@ -52,6 +52,13 @@ in lib folder as 'trammiDB...' files.
 Todo
 ====
 
+Components
+----------
+
+- [Flat-UI](https://github.com/designmodo/Flat-UI) (for watch and map icon?)
+- [Lato typeface](http://www.google.com/webfonts/specimen/Lato)
+- [AngularJS](http://angularjs.org/)
+
 Weather info
 ------------
 
