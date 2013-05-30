@@ -1,3 +1,10 @@
+0.6.7 / 2013-05-30
+===================
+
+* Add transition in the timetable.
+* Fix the input sice on iphone.
+* Review the main text.
+
 0.6.6 / 2013-05-29
 ===================
 
