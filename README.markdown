@@ -52,9 +52,20 @@ in lib folder as 'trammiDB...' files.
 Todo
 ====
 
+Features
+--------
+
+- Total time for a path.
+
+Business
+--------
+
+- Box office on Demand.
+
 Components
 ----------
 
+- [Pure](http://purecss.io/)
 - [Flat-UI](https://github.com/designmodo/Flat-UI) (for watch and map icon?)
 - [Lato typeface](http://www.google.com/webfonts/specimen/Lato)
 - [AngularJS](http://angularjs.org/)
