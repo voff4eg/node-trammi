@@ -2,7 +2,7 @@
 ===================
 
 * Add transition in the timetable.
-* Fix the input sice on iphone.
+* Fix the input size on iphone.
 * Review the main text.
 
 0.6.6 / 2013-05-29
