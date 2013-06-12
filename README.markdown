@@ -10,6 +10,12 @@ After you selected the number line and the stop, it is displayed immediately the
 waiting time of the next arrival. Then, every minute, the estimated time of
 arrivals of the next vehicles are displayed.
 
+Stack software
+==============
+
+- Frontend [Yahoo! User Interface](http://yuilibrary.com/)
+- Backend [Node.js](http://nodejs.org/)
+
 API example
 ===========
 
@@ -77,8 +83,16 @@ Weather info
 - [Historical weather data](http://allthingsr.blogspot.it/2012/04/getting-historical-weather-data-in-r.html)
 - [Tempo di Milano](http://www.tempodimilano.it/)
 
-Methods
+Credits
 =======
+
+- [Icons from Glyphicons Free](http://glyphicons.com/)
+- [Images from Gemicon](http://gemicon.net/)
+- [Background by Peter Ehrlich](http://www.nycsubway.org/wiki/Milan,_Italy_Trams)
+
+
+API Backend
+===========
 
 getStops(query, cb)
 --------
