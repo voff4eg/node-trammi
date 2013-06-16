@@ -13,8 +13,17 @@ arrivals of the next vehicles are displayed.
 Stack software
 ==============
 
-- Frontend [Yahoo! User Interface](http://yuilibrary.com/)
-- Backend [Node.js](http://nodejs.org/)
+Frontend
+--------
+
+- [Pure](http://purecss.io/)
+- [Lato typeface](http://www.google.com/webfonts/specimen/Lato)
+- [Yahoo! User Interface](http://yuilibrary.com/)
+
+Backend
+-------
+
+- [Node.js](http://nodejs.org/)
 
 API example
 ===========
@@ -68,28 +77,12 @@ Business
 
 - Box office on Demand.
 
-Components
-----------
-
-- [Pure](http://purecss.io/)
-- [Flat-UI](https://github.com/designmodo/Flat-UI) (for watch and map icon?)
-- [Lato typeface](http://www.google.com/webfonts/specimen/Lato)
-- [AngularJS](http://angularjs.org/)
-
 Weather info
 ------------
 
 - [wunderground](http://www.wunderground.com/weather/api/d/documentation.html)
 - [Historical weather data](http://allthingsr.blogspot.it/2012/04/getting-historical-weather-data-in-r.html)
 - [Tempo di Milano](http://www.tempodimilano.it/)
-
-Credits
-=======
-
-- [Icons from Glyphicons Free](http://glyphicons.com/)
-- [Images from Gemicon](http://gemicon.net/)
-- [Background by Peter Ehrlich](http://www.nycsubway.org/wiki/Milan,_Italy_Trams)
-
 
 API Backend
 ===========

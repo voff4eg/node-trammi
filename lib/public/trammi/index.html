@@ -11,34 +11,64 @@
     <meta name="description" content="eta app for milano tram">
     <meta name="keywords" content="atm, milano, tram, bus">
 
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.0/pure-min.css">
 
     <link rel="shortcut icon" href="/favicon.ico">
 
     <style>
         @import url(http://fonts.googleapis.com/css?family=Lato);
 
-        html {
-            font-family: 'Lato', sans-serif;
-        }
-
         body {
-            background-image: url(../img/tram-bg.jpg);
-            background-repeat: repeat-x;
-            margin-top: 20px;
+            font-family: 'Lato', sans-serif;
+            margin: 0 auto;
+            line-height: 1.7em;
         }
 
-        .well {
-            background-image: url(../img/grid-18px-masked.png);
+        .l-box {
+            padding: 1em;
         }
 
-        .container > footer p {
-            margin: 64px;
+        .header {
+            margin: 0 0;
         }
 
-        .yui3-aclist-list {
-            font-size: '14px'
+            .header .pure-menu {
+                padding: 0.5em;
+            }
+
+                .header .pure-menu li a:hover,
+                .header .pure-menu li a:focus {
+                    background: none;
+                    border: none;
+                    color: #aaa;
+                }
+
+        .splash {
+            margin: 2em auto 0;
+            padding: 3em 0.5em;
+            background: #eee;
+        }
+            .splash .splash-head {
+                font-size: 300%;
+                margin: 0em 0;
+                line-height: 1.2em;
+            }
+            .splash .splash-subhead {
+                color: #999;
+                font-weight: 300;
+                line-height: 1.4em;
+            }
+            .splash .primary-button {
+                font-size: 150%;
+            }
+
+        .content .content-subhead {
+            color: #999;
+            padding-bottom: 0.3em;
+            text-transform: uppercase;
+            margin: 0;
+            border-bottom: 2px solid #eee;
+            display: inline-block;
         }
 
         #timeTableContainer ul {
@@ -59,39 +89,35 @@
 
 <body>
 
-<div class="navbar navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
-        <a class="brand"
-            href="http://github.com/albertosantini/node-trammi">tramMI
-        </a>
+<div class="content pure-g-r">
 
-    </div>
-  </div>
-</div>
-
-<div class="container yui3-skin-sam">
-
-    <div class="row">
-        <div class="span2">
+    <div class="header pure-u-1">
+        <div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
+            <a class="pure-menu-heading"
+                href="http://github.com/albertosantini/node-trammi">tramMI</a>
         </div>
-        <div class="span8">
-            <div class="well well-large">
-                <h1>Tram a Milano!</h1>
-                <p class="lead">Scopri quando il primo tram e quelli dopo
-                arriveranno alla tua fermata per uscire in tempo da casa o
-                dall'ufficio.
-                </p>
+    </div>
+
+    <div class="splash pure-u-1">
+        <div class="pure-g-r">
+            <div class="pure-u-1-4">
+            </div>
+
+            <div class="pure-u-1-2">
+                <h1 class="splash-head">Tram a Milano!</h1>
+                <h2 class="splash-subhead">Scopri quando il primo tram e quelli
+                    dopo arriveranno alla tua fermata per uscire in tempo da
+                    casa o dall'ufficio.</h2>
                 <p>Cerca, per esempio, <em>tram 1</em> o <em>arena</em>.
                 Selezionata la fermata, i tempi di attesa si aggiornano circa
                 ogni minuto.
                 </p>
-                <div id="stopSearchContainer"></div>
+                <div id="stopSearchContainer" class="yui3-skin-sam"></div>
                 <div id="timeTableContainer"></div>
-
             </div>
-        </div>
-        <div class="span2">
+
+            <div class="pure-u-1-4">
+            </div>
         </div>
     </div>
 
