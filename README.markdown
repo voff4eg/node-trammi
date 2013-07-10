@@ -81,8 +81,8 @@ Features
 
 - Total time for a path.
 
-Business
---------
+Business ideas
+--------------
 
 - Box office on Demand.
 
