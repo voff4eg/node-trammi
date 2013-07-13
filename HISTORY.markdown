@@ -1,110 +1,118 @@
+0.9.0 / 2013-07-13
+==================
+
+* Update to Express 3.x.
+* Review README text including stack software info.
+* Add npm version and dependency badges.
+* Refactor jshint settings.
+
 0.7.0 / 2013-06-16
-===================
+==================
 
 * Use Pure css framework.
 * Use Lato font.
 * Update to YUI 3.10.3.
 
 0.6.8 / 2013-06-06
-===================
+==================
 
 * Update to YUI 3.10.2.
 
 0.6.7 / 2013-05-30
-===================
+==================
 
 * Add transition in the timetable.
 * Fix the input size on iphone.
 * Review the main text.
 
 0.6.6 / 2013-05-29
-===================
+==================
 
 * Add timedate in the timetable.
 
 0.6.5 / 2013-05-27
-===================
+==================
 
 * Fix again the stop request.
 
 0.6.4 / 2013-05-27
-===================
+==================
 
 * Update to YUI 3.10.1.
 * Fix an issue with stop request due to a change in ATM backend.
 
 0.6.3 / 2013-05-05
-===================
+==================
 
 * Update to YUI 3.10.0.
 * Fix soppressa and notturna eta.
 
 0.6.2 / 2013-04-03
-===================
+==================
 
 * Update to YUI 3.9.1.
 * Update to Bootstrap 2.3.1.
 * Update icons.
 
 0.6.1 / 2013-01-12
-===================
+==================
 
 * Replaced line stop image with a tram one.
 * Moved the timetable view to the center below the search field.
 
 0.6.0 / 2012-12-26
-===================
+==================
 
 * Update to YUI 3.8.0.
 * Update to Bootstrap 2.2.2.
 * Refactor layout using a clean stop view based on a list of stops (vs. button).
 
 0.5.8 / 2012-11-09
-===================
+==================
 
 * Clean stops in timetable.
 
 0.5.7 / 2012-11-08
-===================
+==================
 
 * Fix font and break in timetable.
 
 * Update to Bootstrap 2.2.1.
 
 0.5.6 / 2012-10-30
-===================
+==================
 
 * Update to Bootstrap 2.2.0, YUI 3.7.3.
 
 0.5.5 / 2012-09-19
-===================
+==================
 
 * Fix the font size for the autocomplete box.
 
 0.5.4 / 2012-09-17
-===================
+==================
 
 * Update to Bootstrap 2.1.1.
 
 0.5.3 / 2012-03-31
-===================
+==================
 
 * Added a few logs in startServer.
 
 0.5.2 / 2012-03-29
-===================
+==================
 
 * Fixed joyent setup.
 
 0.5.1 / 2012-03-29
-===================
+==================
 
 * Moved frontend folder coherent with joyent setup.
 
 * Moved db creation to support folder.
 
 0.5.0 / 2012-03-28
-===================
+==================
 
 * Changed dnode with jsonp.
 
