@@ -2,6 +2,8 @@
 ===================
 
 * Use Pure css framework.
+* Use Lato font.
+* Update to YUI 3.10.3.
 
 0.6.8 / 2013-06-06
 ===================
