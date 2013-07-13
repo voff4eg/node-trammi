@@ -116,11 +116,11 @@ function createNet() {
             n = ss.length;
 
             for (i = 0; i < n; i += 1) {
-                s = ss[i]["@"];
+                s = ss[i].$;
                 net[s.scode] = net[s.scode] || [];
 
                 if (i < n - 1) {
-                    sn = ss[i + 1]["@"];
+                    sn = ss[i + 1].$;
 
                     if (!isLinkAdded(net, s.scode, sn.scode, lines[l].line)) {
                         net[s.scode].push({
@@ -182,12 +182,12 @@ function readFile(l) {
         parser.parseString(data, function (err, result) {
             var ss, n, i, s;
 
-            lines[l].info = result;
+            lines[l].info = result.lines_detail;
             ss = lines[l].info.stop;
             n = ss.length;
 
             for (i = 0; i < n; i += 1) {
-                s = ss[i]["@"];
+                s = ss[i].$;
                 s.scode = s.scode.trim();
                 stops.push({
                     acdescr: lines[l].type + ' ' + lines[l].line + ': ' +
