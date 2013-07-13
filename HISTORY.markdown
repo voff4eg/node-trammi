@@ -76,7 +76,6 @@
 ==================
 
 * Fix font and break in timetable.
-
 * Update to Bootstrap 2.2.1.
 
 0.5.6 / 2012-10-30
@@ -108,7 +107,6 @@
 ==================
 
 * Moved frontend folder coherent with joyent setup.
-
 * Moved db creation to support folder.
 
 0.5.0 / 2012-03-28
@@ -120,9 +118,7 @@
 ===================
 
 * Updated tw bootstrap 2.0.2.
-
 * Deleted connect logger.
-
 * Fix history doc.
 
 0.4.10 / 2012-03-04
@@ -177,18 +173,14 @@ startServer method.
 ==================
 
 * Moved conditional IE scripts in yuiConfig.
-
 * Replaced search with indexOf in getStops.
 
 0.4.0 / 2012-02-03
 ==================
 
 * Added cache on server side for the timetable and the autocomplete results.
-
 * Moved autocompletion search on server side.
-
 * Compatibility with IE 7/8/9.
-
 * Used the final bootstrap css file.
 
 0.3.0 / 2012-01-30
