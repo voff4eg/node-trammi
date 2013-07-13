@@ -1,5 +1,7 @@
 TRAMMI
 ======
+[![NPM version](https://badge.fury.io/js/trammi.png)](http://badge.fury.io/js/trammi)
+[![NGN Dependencies](https://david-dm.org/albertosantini/node-trammi.png)](https://david-dm.org/albertosantini/node-trammi)
 
 TramMI is a web app to estimate the time of arrival of tram and bus, the public
 transport of Milan city.
