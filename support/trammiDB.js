@@ -1,4 +1,4 @@
-/*jslint node:true, sloppy:true, nomen: true, unparam:true */
+"use strict";
 
 var fs = require('fs'),
     util = require('util'),
