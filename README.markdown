@@ -20,6 +20,14 @@ Frontend
 - [Lato typeface](http://www.google.com/webfonts/specimen/Lato)
 - [Yahoo! User Interface](http://yuilibrary.com/)
 
+Browser Support and Testing
+---------------------------
+
+* IE 7+
+* Latest Stable: Firefox, Chrome, Safari
+* iOS 6.x
+* Android 4.x
+
 Backend
 -------
 
