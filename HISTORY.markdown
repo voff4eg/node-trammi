@@ -1,3 +1,11 @@
+0.9.1 / 2013-07-20
+==================
+
+* Add rounded stop search.
+* Update to YUI 3.11.0.
+* Update to Pure 0.2.1.
+* Update dev dep xml2js 0.2.8.
+
 0.9.0 / 2013-07-13
 ==================
 
