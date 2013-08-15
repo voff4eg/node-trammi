@@ -43,6 +43,7 @@ Open data to build tram stops database:
 - [Servizio di trasporto pubblico locale dal 16/05/2013 al 05/07/2013](http://dati.comune.milano.it/dato/item/180-180-programmato-del-servizio-di-trasporto-pubblico-locale-dal-16052013-al-05072013.html)
 - [Servizio di trasporto pubblico locale dal 22/06/2013 al 30/06/2013](http://dati.comune.milano.it/dato/item/184-184-programmato-del-servizio-di-trasporto-pubblico-locale-dal-22062013-al-30062013.html)
 - [Servizio di trasporto pubblico locale dal 01/07/2013 al 01/08/2013](http://dati.comune.milano.it/dato/item/185-185-programmato-del-servizio-di-trasporto-pubblico-locale-dal-01072013-al-01082013.html)
+- [Servizio di trasporto pubblico locale dal 02/08/2013 al 01/09/2013](http://dati.comune.milano.it/dato/item/189-189-programmato-del-servizio-di-trasporto-pubblico-locale-dal-02082013-al-01092013.html)
 
 API example
 ===========
