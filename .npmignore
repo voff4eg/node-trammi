@@ -1,5 +1,6 @@
 .git*
-examples/
-support/
 .jshintrc
+examples/
+dist/
+support/
 
