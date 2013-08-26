@@ -1,7 +1,7 @@
 {
   "name": "trammi",
   "description": "ETA app for public transport of Milan city",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "main": "index",
   "repository": "http://github.com/albertosantini/node-trammi",
   "keywords": [
