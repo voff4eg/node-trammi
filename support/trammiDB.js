@@ -191,7 +191,8 @@ function readFile(l) {
                 s.scode = s.scode.trim();
                 stops.push({
                     acdescr: lines[l].type + ' ' + lines[l].line + ': ' +
-                        lines[l].way + ' @ ' + s.sdescr,
+                        lines[l].way + ' @ ' + s.sdescr + ' ' +
+                        '[' + s.scode + ']',
                     sdescr: s.sdescr,
                     scode: s.scode,
                     snum: i + 1,
@@ -217,8 +218,3 @@ for (line in lines) {
         readFile(line);
     }
 }
-
-exports.lines = lines;
-exports.stops = stops;
-
-
