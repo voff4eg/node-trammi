@@ -1,3 +1,11 @@
+1.1.0 / 2013-09-06
+==================
+
+* Add stop code in the search.
+* Add clear icon in the search.
+* Replace jQuery module with cheerio one.
+* Update to YUI 3.12.0.
+
 1.0.0 / 2013-08-26
 ==================
 
