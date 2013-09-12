@@ -12,7 +12,7 @@
     <meta name="description" content="eta app for milano tram">
     <meta name="keywords" content="atm, milano, tram, bus">
 
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
 
     <link rel="shortcut icon" href="/favicon.ico">
 
@@ -52,10 +52,6 @@
             padding: 0 1em;
         }
 
-        input[type="text"]:invalid + button[type="reset"] {
-            display: none;
-        }
-
         button {
             margin: 0;
             padding: 0;
@@ -65,11 +61,18 @@
             background: none;
         }
 
+        input[type="text"]:invalid + button[type="reset"] {
+            display: none;
+        }
+
+        input[type="text"] + button[type="reset"] {
+            color: #bbb;
+            top: -28px;
+            position: relative;
+        }
+
         input[type="text"] + button[type="reset"]:after {
             content: '✖';
-            color: #bbb;
-            position: relative;
-            top: -28px;
         }
 
         #timeTableContainer ul {
